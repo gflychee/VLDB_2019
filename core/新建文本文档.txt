@@ -1,0 +1,7 @@
+std::ofstream outc("cluster.txt",std::ios::app);
+  //cout clustering 
+  for(int i=0; i<clustering.size(); i++){
+      outc<<clustering[i].center()<<" "<<clustering[i].is_center()<<" "<<clustering[i].probability()<<" ";
+  }
+  outc<<endl;
+  outc.close();

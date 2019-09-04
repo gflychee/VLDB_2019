@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp -Wall -std=c++14 -O3 -DNDEBUG   CMakeFiles/ugraph-Alo4.dir/Alo4.cpp.o  -o ugraph-Alo4 -rdynamic libugraph.a -lboost_system -lboost_date_time -lboost_program_options -lboost_iostreams -lbz2 

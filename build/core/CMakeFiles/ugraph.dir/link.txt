@@ -1,0 +1,2 @@
+/usr/bin/ar qc libugraph.a  CMakeFiles/ugraph.dir/git_info.cpp.o CMakeFiles/ugraph.dir/io.cpp.o CMakeFiles/ugraph.dir/logging.cpp.o CMakeFiles/ugraph.dir/rand.cpp.o CMakeFiles/ugraph.dir/connected_components.cpp.o CMakeFiles/ugraph.dir/km_sampler.cpp.o CMakeFiles/ugraph.dir/scores.cpp.o
+/usr/bin/ranlib libugraph.a
